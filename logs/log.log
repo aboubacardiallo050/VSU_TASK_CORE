@@ -1,0 +1,59 @@
+
+07-03-25 09:20:14 [vsu_task_core.main.lang] [INFO]: [MainTextClassifierByLang] -> apply start:
+07-03-25 09:21:22 [vsu_task_core.main.lang] [INFO]: [MainTextClassifierByLang] -> apply finished with 68.18080759048462 sec
+07-03-25 09:22:53 [vsu_task_core.main.lang] [INFO]: [MainTextClassifierByLang] -> apply start:
+07-03-25 09:23:07 [vsu_task_core.main.lang] [INFO]: [MainTextClassifierByLang] -> apply finished with 13.700954675674438 sec
+07-03-25 09:23:56 [vsu_task_core.main.lang] [INFO]: [MainTextClassifierByLang] -> apply start:
+07-03-25 09:23:58 [vsu_task_core.main.lang] [INFO]: [MainTextClassifierByLang] -> apply finished with 2.112199544906616 sec
+08-03-25 08:07:27 [pymorphy3.opencorpora_dict.wrapper] [INFO]: Loading dictionaries from C:\Users\bbbb\PycharmProjects\VSU_TASK_CORE\venv\lib\site-packages\pymorphy3_dicts_ru\data
+08-03-25 08:07:29 [pymorphy3.opencorpora_dict.wrapper] [INFO]: format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+08-03-25 16:32:47 [pymorphy3.opencorpora_dict.wrapper] [INFO]: Loading dictionaries from C:\Users\bbbb\PycharmProjects\VSU_TASK_CORE\venv\lib\site-packages\pymorphy3_dicts_ru\data
+08-03-25 16:32:50 [pymorphy3.opencorpora_dict.wrapper] [INFO]: format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+08-03-25 17:12:12 [pymorphy3.opencorpora_dict.wrapper] [INFO]: Loading dictionaries from C:\Users\bbbb\PycharmProjects\VSU_TASK_CORE\venv\lib\site-packages\pymorphy3_dicts_ru\data
+08-03-25 17:12:13 [pymorphy3.opencorpora_dict.wrapper] [INFO]: format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+09-03-25 06:39:32 [pymorphy3.opencorpora_dict.wrapper] [INFO]: Loading dictionaries from C:\Users\bbbb\PycharmProjects\VSU_TASK_CORE\venv\lib\site-packages\pymorphy3_dicts_ru\data
+09-03-25 06:39:38 [pymorphy3.opencorpora_dict.wrapper] [INFO]: format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+09-03-25 06:49:02 [pymorphy3.opencorpora_dict.wrapper] [INFO]: Loading dictionaries from C:\Users\bbbb\PycharmProjects\VSU_TASK_CORE\venv\lib\site-packages\pymorphy3_dicts_ru\data
+09-03-25 06:49:04 [pymorphy3.opencorpora_dict.wrapper] [INFO]: format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+09-03-25 07:07:36 [pymorphy3.opencorpora_dict.wrapper] [INFO]: Loading dictionaries from C:\Users\bbbb\PycharmProjects\VSU_TASK_CORE\venv\lib\site-packages\pymorphy3_dicts_ru\data
+09-03-25 07:07:40 [pymorphy3.opencorpora_dict.wrapper] [INFO]: format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+09-03-25 07:19:06 [pymorphy3.opencorpora_dict.wrapper] [INFO]: Loading dictionaries from C:\Users\bbbb\PycharmProjects\VSU_TASK_CORE\venv\lib\site-packages\pymorphy3_dicts_ru\data
+09-03-25 07:19:14 [pymorphy3.opencorpora_dict.wrapper] [INFO]: format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+16-03-25 21:07:18 [vsu_task_core.main.lang] [INFO]: [MainTextClassifierByLang] -> apply start:
+16-03-25 21:09:09 [vsu_task_core.main.lang] [INFO]: [MainTextClassifierByLang] -> apply finished with 111.05172824859619 sec
+16-03-25 21:09:32 [vsu_task_core.main.lang] [INFO]: [MainTextClassifierByLang] -> apply start:
+16-03-25 21:09:38 [vsu_task_core.main.lang] [INFO]: [MainTextClassifierByLang] -> apply finished with 6.851880788803101 sec
+16-03-25 21:12:24 [vsu_task_core.main.lang] [INFO]: [MainTextClassifierByLang] -> apply start:
+16-03-25 21:13:18 [vsu_task_core.main.lang] [INFO]: [MainTextClassifierByLang] -> apply finished with 48.31920599937439 sec
+16-03-25 21:18:55 [vsu_task_core.main.lang] [INFO]: [MainTextClassifierByLang] -> apply start:
+16-03-25 21:19:13 [vsu_task_core.main.lang] [INFO]: [MainTextClassifierByLang] -> apply finished with 18.208558797836304 sec
+16-03-25 21:22:02 [vsu_task_core.main.lang] [INFO]: [MainTextClassifierByLang] -> apply start:
+16-03-25 21:22:24 [vsu_task_core.main.lang] [INFO]: [MainTextClassifierByLang] -> apply finished with 21.52721858024597 sec
+16-03-25 21:23:11 [vsu_task_core.main.lang] [INFO]: [MainTextClassifierByLang] -> apply start:
+16-03-25 21:23:20 [vsu_task_core.main.lang] [INFO]: [MainTextClassifierByLang] -> apply finished with 9.717385292053223 sec
+16-03-25 21:24:39 [vsu_task_core.main.lang] [INFO]: [MainTextClassifierByLang] -> apply start:
+16-03-25 21:24:39 [vsu_task_core.main.lang] [INFO]: [MainTextClassifierByLang] -> apply finished with 0.7763857841491699 sec
+16-03-25 21:25:43 [vsu_task_core.main.lang] [INFO]: [MainTextClassifierByLang] -> apply start:
+16-03-25 21:25:44 [vsu_task_core.main.lang] [INFO]: [MainTextClassifierByLang] -> apply finished with 0.756742000579834 sec
+17-03-25 02:35:40 [pymorphy3.opencorpora_dict.wrapper] [INFO]: Loading dictionaries from C:\Users\bbbb\PycharmProjects\VSU_TASK_CORE\venv\lib\site-packages\pymorphy3_dicts_ru\data
+17-03-25 02:36:06 [pymorphy3.opencorpora_dict.wrapper] [INFO]: format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+17-03-25 02:43:22 [pymorphy3.opencorpora_dict.wrapper] [INFO]: Loading dictionaries from C:\Users\bbbb\PycharmProjects\VSU_TASK_CORE\venv\lib\site-packages\pymorphy3_dicts_ru\data
+17-03-25 02:43:32 [pymorphy3.opencorpora_dict.wrapper] [INFO]: format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+22-03-25 08:03:10 [vsu_task_core.main.lang] [INFO]: [MainTextClassifierByLang] -> apply start:
+22-03-25 08:04:03 [vsu_task_core.main.lang] [INFO]: [MainTextClassifierByLang] -> apply finished with 52.683929443359375 sec
+22-03-25 08:06:37 [vsu_task_core.main.lang] [INFO]: [MainTextClassifierByLang] -> apply start:
+22-03-25 08:06:49 [vsu_task_core.main.lang] [INFO]: [MainTextClassifierByLang] -> apply finished with 12.057543277740479 sec
+22-03-25 08:18:42 [pymorphy3.opencorpora_dict.wrapper] [INFO]: Loading dictionaries from C:\Users\bbbb\PycharmProjects\VSU_TASK_CORE\venv\lib\site-packages\pymorphy3_dicts_ru\data
+22-03-25 08:18:47 [pymorphy3.opencorpora_dict.wrapper] [INFO]: format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+23-03-25 16:47:31 [pymorphy3.opencorpora_dict.wrapper] [INFO]: Loading dictionaries from C:\Users\bbbb\PycharmProjects\VSU_TASK_CORE\venv\lib\site-packages\pymorphy3_dicts_ru\data
+23-03-25 16:47:32 [pymorphy3.opencorpora_dict.wrapper] [INFO]: format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+24-03-25 01:09:41 [vsu_task_core.main.lang] [INFO]: [MainTextClassifierByLang] -> apply start:
+24-03-25 01:10:26 [vsu_task_core.main.lang] [INFO]: [MainTextClassifierByLang] -> apply finished with 45.60078048706055 sec
+24-03-25 01:11:04 [vsu_task_core.main.lang] [INFO]: [MainTextClassifierByLang] -> apply start:
+24-03-25 01:11:05 [vsu_task_core.main.lang] [INFO]: [MainTextClassifierByLang] -> apply finished with 0.3901095390319824 sec
+24-03-25 01:11:25 [vsu_task_core.main.lang] [INFO]: [MainTextClassifierByLang] -> apply start:
+24-03-25 01:11:25 [vsu_task_core.main.lang] [INFO]: [MainTextClassifierByLang] -> apply finished with 0.18682456016540527 sec
+24-03-25 01:12:30 [vsu_task_core.main.lang] [INFO]: [MainTextClassifierByLang] -> apply start:
+24-03-25 01:12:30 [vsu_task_core.main.lang] [INFO]: [MainTextClassifierByLang] -> apply finished with 0.36117005348205566 sec
+24-03-25 01:28:00 [pymorphy3.opencorpora_dict.wrapper] [INFO]: Loading dictionaries from C:\Users\bbbb\PycharmProjects\VSU_TASK_CORE\venv\lib\site-packages\pymorphy3_dicts_ru\data
+24-03-25 01:28:07 [pymorphy3.opencorpora_dict.wrapper] [INFO]: format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
